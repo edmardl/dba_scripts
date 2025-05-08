@@ -1,2 +1,2 @@
-# dba_scripts
+# dba scripts
 Database Maintenance Scripts
